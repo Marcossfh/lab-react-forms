@@ -100,7 +100,7 @@ function App() {
             name="phone" 
             type="tel" 
             placeholder="Phone"
-            value = {email} 
+            value = {phone} 
             onChange = {handlePhoneChange}
 
             />
